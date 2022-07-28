@@ -1,4 +1,4 @@
-# Data Engineers Salary Dataset Analysis
+# Stores' Sales Dataset Analysis
 In this data I performed detailed exploration. I found correlations and trends, then make comments about them. All the details are explained.
 
 
